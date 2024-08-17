@@ -1,0 +1,6 @@
+NDY3MTQ4NDg2MTc2MzY2NDUzNDM0NjZiNmU0ODU1NzA=
+
+
+"https://api.textlocal.in/send/?apikey='NDY3MTQ4NDg2MTc2MzY2NDUzNDM0NjZiNmU0ODU1NzA='&numbers='9558593930'&message='Hi Hello'&sender='Ruparel Education'";
+
+"https://api.textlocal.in/send/?apikey=NDY3MTQ4NDg2MTc2MzY2NDUzNDM0NjZiNmU0ODU1NzA=&numbers=9558593930&message=Hi Hello&sender=RuparelEducation";

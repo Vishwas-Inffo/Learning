@@ -1,0 +1,8 @@
+http api token
+
+6613692324:AAFEHZx2wvDCIGOy9vTahja-44alC1RgGys
+
+chat id
+
+https://api.telegram.org/bot<6613692324:AAFEHZx2wvDCIGOy9vTahja-44alC1RgGys>/getUpdates
+
